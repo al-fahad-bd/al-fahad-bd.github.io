@@ -74,7 +74,7 @@ class AppClass {
     ),
     ProjectModel(
       projectTitle: "BD Specialized Hospital",
-      projectImage: 'assets/svg/specialized_hospital_app.png',
+      projectImage: 'assets/svg/specialized-hospital.png',
       projectContent:
           "A Digital Healthcare soulution build for Bangladesh Specialized Hospital",
       tech1: "Flutter",
@@ -83,7 +83,7 @@ class AppClass {
     ),
     ProjectModel(
       projectTitle: "Brac-Healthcare",
-      projectImage: 'assets/svg/brac-healthcare-app.png',
+      projectImage: 'assets/svg/brac-healthcare.png',
       projectContent:
           "A Mordern Healthcare app build for Brac Healthcare organization",
       tech1: "Flutter",
